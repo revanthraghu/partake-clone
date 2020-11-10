@@ -21,10 +21,10 @@ The project has the following features:
 ## Project screenshots
 
 ### Landing Page
-![](partake_home.png)
+![](partake_home.jpg)
 
 ### Login Page
-![](partake_login.png)
+![](partake_login.jpg)
 
 ### Shop Page
-![](partake_shop.png)
+![](partake_shop.jpg)
