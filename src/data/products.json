@@ -1,0 +1,86 @@
+[
+    {
+        "sku": 1,
+        "name": "Crunchy Chocolate Chip Cookies",
+        "price": "14.99",
+        "image": "sku1",
+        "featured": true
+    },
+    {
+        "sku": 2,
+        "name": "Crunchy Double Chocolate Chip Cookies",
+        "price": "14.99",
+        "image": "sku2",
+        "featured": true
+    },
+    {
+        "sku": 3,
+        "name": "Crunchy Birthday Cake Cookies",
+        "price": "14.99",
+        "image": "sku3",
+        "featured": true
+    },
+    {
+        "sku": 4,
+        "name": "Crunchy Carrot Cake Cookies",
+        "price": "14.99",
+        "image": "sku4",
+        "featured": true
+    },
+    {
+        "sku": 5,
+        "name": "Crunchy Ginger Snap Cookies",
+        "price": "14.99",
+        "image": "sku5",
+        "featured": true
+    },
+    {
+        "sku": 6,
+        "name": "All the Cookies! Family Pack (8 Boxes)",
+        "price": "39.99",
+        "image": "sku6"
+    },
+    {
+        "sku": 7,
+        "name": "Crunchy Variety Pack (5 Boxes)",
+        "price": "24.99",
+        "image": "sku7"
+    },
+    {
+        "sku": 8,
+        "name": "Harvest Variety Pack",
+        "price": "14.99",
+        "image": "sku8"
+    },
+    {
+        "sku": 9,
+        "name": "Soft Baked Chocolate Chip Cookies",
+        "price": "14.99",
+        "image": "sku9"
+    },
+    {
+        "sku": 10,
+        "name": "Soft Baked Cookie Butter Cookies",
+        "price": "14.99",
+        "image": "sku10"
+    },
+    {
+        "sku": 11,
+        "name": "Soft Baked Pumpkin Spice Cookies",
+        "price": "14.99",
+        "image": "sku11"
+    },
+    {
+        "sku": 12,
+        "name": "Soft Baked Triple Chocolate Cookies",
+        "price": "14.99",
+        "image": "sku12"
+    },
+    {
+        "sku": 13,
+        "name": "Soft Baked Variety Pack (3 Boxes)",
+        "price": "14.99",
+        "image": "sku13"
+    }
+
+]
