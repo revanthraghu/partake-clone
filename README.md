@@ -1,5 +1,6 @@
 # Partake Website clone
 ***Note: The partake website UI has been updated so the project UI might vary from the actual website***
+<br/>
 A clone of the partake e-commerce website clone. [Click here](https://partakefoods.com/) to see the partake website. 
 <br/>
 <br/>
